@@ -14,20 +14,6 @@
       </tags>
   </entry>
   <entry>
-    <title>平常</title>
-    <url>/2023/08/22/0822/</url>
-    <content><![CDATA[<!-- hexo clean && hexo g -d -->
-<p><img src="/images/0822.png"></p>
-<center>若无闲事挂心头</center>
-<center>便是人间好时节</center>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>Days</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/08/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -49,6 +35,20 @@
       </categories>
   </entry>
   <entry>
+    <title>平常</title>
+    <url>/2023/08/22/0822/</url>
+    <content><![CDATA[<!-- hexo clean && hexo g -d -->
+<p><img src="/images/0822.png"></p>
+<center>若无闲事挂心头</center>
+<center>便是人间好时节</center>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>Days</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>自我</title>
     <url>/2023/08/25/0825/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对 ||ヽ(*￣▽￣*)ノミ|" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -57,7 +57,7 @@
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
       <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">-------------------------------------芝麻开门-------------------------------------</span>
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">---------------------------------芝麻开门---------------------------------</span>
       </label>
     </div>
   </div>
