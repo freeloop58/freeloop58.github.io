@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>自我</title>
+    <url>/2023/08/25/0825/</url>
+    <content><![CDATA[<p><img src="/source/images/alone.png"></p>
+<center>内心丰盈者</center>
+<center>独行亦如众</center>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+  </entry>
+  <entry>
     <title>新的浅显的开始</title>
     <url>/2023/08/02/0802/</url>
-    <content><![CDATA[<h2 id="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"><a href="#第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。" class="headerlink" title="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"></a><font size="3">第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。</font><br><!--color=#36454F --></h2><p><img src="/0802.png">  </p>
+    <content><![CDATA[<h2 id="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"><a href="#第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。" class="headerlink" title="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"></a><font size="3">第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。</font><br><!--color=#36454F --></h2><p><img src="/source/images/0802.png">  </p>
 <center>@coder12</center>
 ]]></content>
       <categories>
@@ -17,7 +27,7 @@
     <title>平常</title>
     <url>/2023/08/22/0822/</url>
     <content><![CDATA[<!-- hexo clean && hexo g -d -->
-<p><img src="/0822.png"></p>
+<p><img src="/source/images/0822.png"></p>
 <center>若无闲事挂心头</center>
 <center>便是人间好时节</center>]]></content>
       <categories>
@@ -26,16 +36,6 @@
       <tags>
         <tag>Days</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>自我</title>
-    <url>/2023/08/25/0825/</url>
-    <content><![CDATA[<p><img src="/alone.png"></p>
-<center>内心丰盈者</center>
-<center>独行亦如众</center>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
   </entry>
   <entry>
     <title>Hello World</title>
