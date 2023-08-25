@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>自我</title>
-    <url>/2023/08/25/0825/</url>
-    <content><![CDATA[<p><img src="/source/images/alone.png"></p>
-<center>内心丰盈者</center>
-<center>独行亦如众</center>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-  </entry>
-  <entry>
     <title>新的浅显的开始</title>
     <url>/2023/08/02/0802/</url>
     <content><![CDATA[<h2 id="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"><a href="#第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。" class="headerlink" title="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"></a><font size="3">第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。</font><br><!--color=#36454F --></h2><p><img src="/source/images/0802.png">  </p>
@@ -24,17 +14,25 @@
       </tags>
   </entry>
   <entry>
-    <title>平常</title>
-    <url>/2023/08/22/0822/</url>
-    <content><![CDATA[<!-- hexo clean && hexo g -d -->
-<p><img src="/source/images/0822.png"></p>
-<center>若无闲事挂心头</center>
-<center>便是人间好时节</center>]]></content>
+    <title>自我</title>
+    <url>/2023/08/25/0825/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="499555bfc3665dcba4558598e8e60e2dbf993a43f730de10002e9b20b67691d0">10d79030e8222445804370796b90fca137dc2860cf36b04fb91b30c3ec8a08a6ad8cc707fd2a4354bd58923ec7f508425a8628fc514f033d1141fe519b3f74327bf9770bac23d5f603530d3d50bb20e1b8ffa143389dab39eb1dc59d014e39178a2047b46dc412d467bca0e6a66e167be7d427d448ddd0596912fcccc22b14580091e6ca9c3db2b34346ca3f30b93f9e</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这里需要密码才能访问。</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Shares</category>
+        <category>Life</category>
       </categories>
       <tags>
-        <tag>Days</tag>
+        <tag>Open sesame</tag>
       </tags>
   </entry>
   <entry>
@@ -57,5 +55,19 @@
       <categories>
         <category>Code</category>
       </categories>
+  </entry>
+  <entry>
+    <title>平常</title>
+    <url>/2023/08/22/0822/</url>
+    <content><![CDATA[<!-- hexo clean && hexo g -d -->
+<p><img src="/source/images/0822.png"></p>
+<center>若无闲事挂心头</center>
+<center>便是人间好时节</center>]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Days</tag>
+      </tags>
   </entry>
 </search>
