@@ -105,7 +105,7 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/freeloop58/freeloop58.github.io.git
+  repo: https://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@github.com/freeloop58/freeloop58.github.io.git
   branch: master
 
 
