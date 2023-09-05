@@ -14,19 +14,6 @@
       </tags>
   </entry>
   <entry>
-    <title>自我</title>
-    <url>/2023/08/25/0825/</url>
-    <content><![CDATA[<p><img src="/images/alone.png"></p>
-<center>内心丰盈者</center>
-<center>独行亦如众</center>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>Open sesame</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>平常</title>
     <url>/2023/08/22/0822/</url>
     <content><![CDATA[<!-- hexo clean && hexo g -d -->
@@ -63,6 +50,19 @@
       </tags>
   </entry>
   <entry>
+    <title>自我</title>
+    <url>/2023/08/25/0825/</url>
+    <content><![CDATA[<p><img src="/images/alone.png"></p>
+<center>内心丰盈者</center>
+<center>独行亦如众</center>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>Open sesame</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>0829记-被市场耍的团团转的小学生</title>
     <url>/2023/08/29/0829/</url>
     <content><![CDATA[<p><strong>想法</strong><br>人工智能-》数据确权&#x2F;要素–》传媒娱乐—》中原传媒、幸福蓝海、中国科传、金桥信息</p>
@@ -77,57 +77,6 @@
       <tags>
         <tag>Diary</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>0830记-AI对于不坚定信徒的惩罚？</title>
-    <url>/2023/08/30/0830/</url>
-    <content><![CDATA[<p><strong>主观规律：</strong><br>次新股的大涨跟着最近的板块趋势正向相关。（看板块）<br>熟悉下各个板块20CM套利股，错过正宗概念涨停板后第一时间进弹性套利股票</p>
-<p><strong>大A常见规律：</strong><br>核污染&#x2F;核战争新闻：炒作力生制药（唯一持有碘化钾药片文号，可防治核辐射）<br>暑假：医美相关板块<br>地产：特发服务（唯一20CM套利）<br>6G：本川智能</p>
-<p><strong>今日：</strong><br>持股张江高科，逻辑：房地产+光刻机，今日华为芯片带动大盘，盘中博弈地产回流，感觉有芯片板块支撑，下跌风险较小。<br>目前无法感觉市场主线，前期证券，预期地产，数据要素&#x2F;确权走低则有预期差。</p>
-<p>大盘指数3137，是否能上涨还是补跌暂时未知，要稳，也要低点去博弈，打一个预期差，要拿住，不要因为两三个点下跌就卖出。</p>
-<p><strong>明日计划：</strong><br>今晚地产利好新闻①，广州深圳执行认房不认贷政策，新闻②：鼓励民营房企资本市场融资，那么明天房地产大概率预期为小红开，则持股，若地产+光刻机板块同时上涨，可期待高开出掉或者涨停（难），若两个板块低开下跌不及预期，可止损。</p>
-<p>地产是否博弈周末利好？周五确定北上广深特大城市政策相关程度高的股票，不要随便进一支,周一大概率低开。</p>
-]]></content>
-      <categories>
-        <category>Shares</category>
-      </categories>
-      <tags>
-        <tag>Diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>0831记-简略</title>
-    <url>/2023/09/01/0831/</url>
-    <content><![CDATA[<p><strong>交易：</strong><br>按照昨日的想法，不同于的是，光刻机板块指数第一，房地产板块指数倒一，也导致张江高科没有大跌，全天保持横盘，上午出掉。<br>进润达医疗与附福晶科技，盘面混乱，资金拉出spd概念作为对手盘。</p>
-<p><strong>思考：</strong><br>人工智能，低卖 高卖。<br>周末博弈华为核心票。<br>周五情绪冰点，量化+8.28。<br>主板+非融资融券+华为芯片+涨停过。<br>判断是游资与市场合力会顶出主板 5板&#x2F;6板的票，突破监管限制。</p>
-]]></content>
-      <categories>
-        <category>Shares</category>
-      </categories>
-      <tags>
-        <tag>Diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/08/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Others</category>
-      </categories>
   </entry>
   <entry>
     <title>0901记-犯下重复错误沮丧的一天(补上)</title>
@@ -159,5 +108,70 @@
       <tags>
         <tag>Diary</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>0831记-简略</title>
+    <url>/2023/09/01/0831/</url>
+    <content><![CDATA[<p><strong>交易：</strong><br>按照昨日的想法，不同于的是，光刻机板块指数第一，房地产板块指数倒一，也导致张江高科没有大跌，全天保持横盘，上午出掉。<br>进润达医疗与附福晶科技，盘面混乱，资金拉出spd概念作为对手盘。</p>
+<p><strong>思考：</strong><br>人工智能，低卖 高卖。<br>周末博弈华为核心票。<br>周五情绪冰点，量化+8.28。<br>主板+非融资融券+华为芯片+涨停过。<br>判断是游资与市场合力会顶出主板 5板&#x2F;6板的票，突破监管限制。</p>
+]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>0830记-AI对于不坚定信徒的惩罚？</title>
+    <url>/2023/08/30/0830/</url>
+    <content><![CDATA[<p><strong>主观规律：</strong><br>次新股的大涨跟着最近的板块趋势正向相关。（看板块）<br>熟悉下各个板块20CM套利股，错过正宗概念涨停板后第一时间进弹性套利股票</p>
+<p><strong>大A常见规律：</strong><br>核污染&#x2F;核战争新闻：炒作力生制药（唯一持有碘化钾药片文号，可防治核辐射）<br>暑假：医美相关板块<br>地产：特发服务（唯一20CM套利）<br>6G：本川智能</p>
+<p><strong>今日：</strong><br>持股张江高科，逻辑：房地产+光刻机，今日华为芯片带动大盘，盘中博弈地产回流，感觉有芯片板块支撑，下跌风险较小。<br>目前无法感觉市场主线，前期证券，预期地产，数据要素&#x2F;确权走低则有预期差。</p>
+<p>大盘指数3137，是否能上涨还是补跌暂时未知，要稳，也要低点去博弈，打一个预期差，要拿住，不要因为两三个点下跌就卖出。</p>
+<p><strong>明日计划：</strong><br>今晚地产利好新闻①，广州深圳执行认房不认贷政策，新闻②：鼓励民营房企资本市场融资，那么明天房地产大概率预期为小红开，则持股，若地产+光刻机板块同时上涨，可期待高开出掉或者涨停（难），若两个板块低开下跌不及预期，可止损。</p>
+<p>地产是否博弈周末利好？周五确定北上广深特大城市政策相关程度高的股票，不要随便进一支,周一大概率低开。</p>
+]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>0905记-就喜欢高开被挂的感觉</title>
+    <url>/2023/09/05/0905/</url>
+    <content><![CDATA[<p>简单记录下<br>今日操作：竞价进了半仓凯格精机，逻辑（低位+竞价微红开+中富电路补涨），3成仓软通动力，2成仓龙建股份。<br><strong>反思：</strong><br>①昨晚舆论预期一致看高，今天华为线反常没有普遍高开担心盘中被砸，导致不敢竞价0轴买入软通动力，反而开盘失去理智追高5个点买入被挂…<br>②在华为概念+芯片主线下，没有去跟随大盘，自己预测一带一路盲目竞价进了龙建股份，收盘-3。</p>
+<p>明日操作：出龙建股份，买入海量数据，软通动力阴跌的话止损空仓。</p>
+<p>思路：华为信创PC延展，鸿蒙PC系统+麒麟芯片，暂不知具体相关股票。</p>
+]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/08/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Others</category>
+      </categories>
   </entry>
 </search>
