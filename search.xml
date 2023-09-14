@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>新的浅显的开始</title>
-    <url>/2023/08/02/0802/</url>
-    <content><![CDATA[<h2 id="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"><a href="#第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。" class="headerlink" title="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"></a><font size="3">第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。</font><br><!--color=#36454F --></h2><p><img src="/images/0802.png">  </p>
-<center>@coder12</center>
-]]></content>
-      <categories>
-        <category>Daily</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>平常</title>
     <url>/2023/08/22/0822/</url>
     <content><![CDATA[<!-- hexo clean && hexo g -d -->
@@ -25,6 +12,16 @@
       </categories>
       <tags>
         <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新的浅显的开始</title>
+    <url>/2023/08/02/0802/</url>
+    <content><![CDATA[<h2 id="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"><a href="#第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。" class="headerlink" title="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"></a><font size="3">第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。</font><br><!--color=#36454F --></h2><p><img src="/images/0802.png">  </p>
+<center>@coder12</center>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
       </tags>
   </entry>
   <entry>
@@ -140,23 +137,6 @@
       </tags>
   </entry>
   <entry>
-    <title>0905记-就喜欢高开被挂的感觉</title>
-    <url>/2023/09/05/0905/</url>
-    <content><![CDATA[<p>简单记录下</p>
-<p>今日操作：竞价进了半仓凯格精机，逻辑（低位+竞价微红开+中富电路补涨），3成仓软通动力，2成仓龙建股份。</p>
-<p><strong>反思：</strong><br>①昨晚舆论预期一致看高，今天华为线反常没有普遍高开担心盘中被砸，导致不敢竞价0轴买入软通动力，反而开盘失去理智追高5个点买入被挂…<br>②在华为概念+芯片主线下，没有去跟随大盘，自己预测一带一路盲目竞价进了龙建股份，收盘-3。</p>
-<p>明日操作：出龙建股份，买入海量数据，软通动力阴跌的话止损,仓位集中同时提高逻辑性。</p>
-<p>思路：华为信创PC延展，鸿蒙PC系统+麒麟芯片，暂不知具体相关股票。</p>
-<p>PS：不管盘后利好多大，再开盘几分钟内追高进去我是🐕。</p>
-]]></content>
-      <categories>
-        <category>Shares</category>
-      </categories>
-      <tags>
-        <tag>Diary</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>0906记-遥遥领先，遥遥领先！</title>
     <url>/2023/09/07/0906/</url>
     <content><![CDATA[<p>简单复述下<br>今日操作：8成仓买入福晶科技，两成仓从龙建股份换到海量数据（确认不是主流资金）。</p>
@@ -174,24 +154,14 @@
       </tags>
   </entry>
   <entry>
-    <title>0907记-龙 空 龙</title>
-    <url>/2023/09/07/0907/</url>
-    <content><![CDATA[<p><strong>今日操作：</strong>8成仓做t福晶科技，降低了0.5点成本，2成仓因为工作事务影响判断追了特发服务进去，亏损2个点。</p>
-<p><strong>后续操作：</strong>没有明确逻辑，或者大盘成交量低于8500亿，暂时空仓。</p>
-<p><strong>还是没有认识到股市这个修罗场的镰刀，铭记在心。</strong></p>
-]]></content>
-      <categories>
-        <category>Shares</category>
-      </categories>
-      <tags>
-        <tag>Diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>0913记-亏麻了</title>
-    <url>/2023/09/14/0913/</url>
-    <content><![CDATA[<p><strong>持股：</strong>龙建股份 中铁装配<br><strong>明日计划：</strong>集合竞价三木集团（海峡物流、贸易）</p>
-<p><strong>思考：</strong><br>东方经济论坛&#x2F;振兴东北：龙建股份<br>欧盟拟对华电动汽车启动反补贴调查，利空汽车板块：比亚迪&#x2F;长城<br>畅通台胞往来通道。适度超前开展交通物流基础设施建设：三木集团</p>
+    <title>0905记-就喜欢高开被挂的感觉</title>
+    <url>/2023/09/05/0905/</url>
+    <content><![CDATA[<p>简单记录下</p>
+<p>今日操作：竞价进了半仓凯格精机，逻辑（低位+竞价微红开+中富电路补涨），3成仓软通动力，2成仓龙建股份。</p>
+<p><strong>反思：</strong><br>①昨晚舆论预期一致看高，今天华为线反常没有普遍高开担心盘中被砸，导致不敢竞价0轴买入软通动力，反而开盘失去理智追高5个点买入被挂…<br>②在华为概念+芯片主线下，没有去跟随大盘，自己预测一带一路盲目竞价进了龙建股份，收盘-3。</p>
+<p>明日操作：出龙建股份，买入海量数据，软通动力阴跌的话止损,仓位集中同时提高逻辑性。</p>
+<p>思路：华为信创PC延展，鸿蒙PC系统+麒麟芯片，暂不知具体相关股票。</p>
+<p>PS：不管盘后利好多大，再开盘几分钟内追高进去我是🐕。</p>
 ]]></content>
       <categories>
         <category>Shares</category>
@@ -222,9 +192,36 @@
       </categories>
   </entry>
   <entry>
+    <title>0907记-龙 空 龙</title>
+    <url>/2023/09/07/0907/</url>
+    <content><![CDATA[<p><strong>今日操作：</strong>8成仓做t福晶科技，降低了0.5点成本，2成仓因为工作事务影响判断追了特发服务进去，亏损2个点。</p>
+<p><strong>后续操作：</strong>没有明确逻辑，或者大盘成交量低于8500亿，暂时空仓。</p>
+<p><strong>还是没有认识到股市这个修罗场的镰刀，铭记在心。</strong></p>
+]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>置顶</title>
     <url>/2023/09/14/20230914/</url>
     <content><![CDATA[<p><strong>写点东西吧，后退一步就是深渊，而你却浑浑噩噩。</strong><br><strong>没有危机感</strong><br><strong>没有自控力</strong><br><strong>太在意别人看法</strong><br><strong>找寻有意义的苦难</strong></p>
+]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>0913记-亏麻了</title>
+    <url>/2023/09/14/0913/</url>
+    <content><![CDATA[<p><strong>持股：</strong>龙建股份 中铁装配<br><strong>明日计划：</strong>集合竞价三木集团（海峡物流、贸易）</p>
+<p><strong>思考：</strong><br>东方经济论坛&#x2F;振兴东北：龙建股份<br>欧盟拟对华电动汽车启动反补贴调查，利空汽车板块：比亚迪&#x2F;长城<br>畅通台胞往来通道。适度超前开展交通物流基础设施建设：三木集团</p>
 ]]></content>
       <categories>
         <category>Shares</category>
