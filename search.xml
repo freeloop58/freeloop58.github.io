@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>平常</title>
-    <url>/2023/08/22/0822/</url>
-    <content><![CDATA[<!-- hexo clean && hexo g -d -->
-<p><img src="/images/0822.png"></p>
-<center>若无闲事挂心头</center>
-<center>便是人间好时节</center>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>Diary</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>自我</title>
     <url>/2023/08/25/0825/</url>
     <content><![CDATA[<p><img src="/images/alone.png"></p>
@@ -35,6 +21,20 @@
 ]]></content>
       <tags>
         <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>平常</title>
+    <url>/2023/08/22/0822/</url>
+    <content><![CDATA[<!-- hexo clean && hexo g -d -->
+<p><img src="/images/0822.png"></p>
+<center>若无闲事挂心头</center>
+<center>便是人间好时节</center>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
       </tags>
   </entry>
   <entry>
@@ -154,11 +154,14 @@
       </tags>
   </entry>
   <entry>
-    <title>0907记-龙 空 龙</title>
-    <url>/2023/09/07/0907/</url>
-    <content><![CDATA[<p><strong>今日操作：</strong>8成仓做t福晶科技，降低了0.5点成本，2成仓因为工作事务影响判断追了特发服务进去，亏损2个点。</p>
-<p><strong>后续操作：</strong>没有明确逻辑，或者大盘成交量低于8500亿，暂时空仓。</p>
-<p><strong>还是没有认识到股市这个修罗场的镰刀，铭记在心。</strong></p>
+    <title>0906记-遥遥领先，遥遥领先！</title>
+    <url>/2023/09/07/0906/</url>
+    <content><![CDATA[<p>简单复述下<br>今日操作：8成仓买入福晶科技，两成仓从龙建股份换到海量数据（确认不是主流资金）。</p>
+<p><strong>明日操作：</strong><br>明日华为概念可能会震荡，观察华映科技、捷荣技术等走势，出掉福晶科技后，<br>可调仓到房地产板块（低吸特发服务（套利不追高）、我爱我家（二手房逻辑）、金科股份（辨识度最高））。</p>
+<p><strong>福晶科技股性：</strong><br>①若开盘半小时快速冲高4——5个点，且板块情绪一般，马上出一半仓位，这种下午一半会回落。（明日盘面确认）<br>②若开盘小幅高开，然后1——3个点震荡，板块缓慢拉升，那么持股待涨。<br>大概率明天红盘震荡，然后后面几天洗盘，出现十字星后可买入，跟随光刻机板块回流或者新闻发酵再次涨停。</p>
+<p><strong>总结：</strong>要么高开低走，要么低开高走。</p>
+<p>存储芯片：德明利</p>
+<p><strong>周五可埋伏张江高科。</strong></p>
 ]]></content>
       <categories>
         <category>Shares</category>
@@ -168,14 +171,11 @@
       </tags>
   </entry>
   <entry>
-    <title>0906记-遥遥领先，遥遥领先！</title>
-    <url>/2023/09/07/0906/</url>
-    <content><![CDATA[<p>简单复述下<br>今日操作：8成仓买入福晶科技，两成仓从龙建股份换到海量数据（确认不是主流资金）。</p>
-<p><strong>明日操作：</strong><br>明日华为概念可能会震荡，观察华映科技、捷荣技术等走势，出掉福晶科技后，<br>可调仓到房地产板块（低吸特发服务（套利不追高）、我爱我家（二手房逻辑）、金科股份（辨识度最高））。</p>
-<p><strong>福晶科技股性：</strong><br>①若开盘半小时快速冲高4——5个点，且板块情绪一般，马上出一半仓位，这种下午一半会回落。（明日盘面确认）<br>②若开盘小幅高开，然后1——3个点震荡，板块缓慢拉升，那么持股待涨。<br>大概率明天红盘震荡，然后后面几天洗盘，出现十字星后可买入，跟随光刻机板块回流或者新闻发酵再次涨停。</p>
-<p><strong>总结：</strong>要么高开低走，要么低开高走。</p>
-<p>存储芯片：德明利</p>
-<p><strong>周五可埋伏张江高科。</strong></p>
+    <title>0907记-龙 空 龙</title>
+    <url>/2023/09/07/0907/</url>
+    <content><![CDATA[<p><strong>今日操作：</strong>8成仓做t福晶科技，降低了0.5点成本，2成仓因为工作事务影响判断追了特发服务进去，亏损2个点。</p>
+<p><strong>后续操作：</strong>没有明确逻辑，或者大盘成交量低于8500亿，暂时空仓。</p>
+<p><strong>还是没有认识到股市这个修罗场的镰刀，铭记在心。</strong></p>
 ]]></content>
       <categories>
         <category>Shares</category>
@@ -201,6 +201,20 @@
     <title>置顶</title>
     <url>/2023/09/14/20230914/</url>
     <content><![CDATA[<p><strong>写点东西吧，后退一步就是深渊，而你却浑浑噩噩。</strong><br><strong>没有危机感</strong><br><strong>没有自控力</strong><br><strong>太在意别人看法</strong><br><strong>找寻有意义的苦难</strong></p>
+]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>1010记-10月新的开始</title>
+    <url>/2023/10/10/20231010/</url>
+    <content><![CDATA[<p><strong>这个月的目标是降低操作频率，提高出手胜率。</strong></p>
+<p><strong>实盘操作：</strong><br>昨天半仓进了国光电器，没有任何逻辑性，设置了解上涨原因，完全基于盘感随意性的操作，再次违反了纪律，幸好给了平盘出的机会。<br>今天出掉国光，外盘黄金大涨叠加中东战争，6成仓位竞价进了中润资源，全天震荡平盘，央行主动在压制国内价格，感觉上涨希望不大了，继续关注外盘黄金走势。<br>早上 情绪化操作了一笔，追高买了万兴科技，收盘亏损2个点，必须要改正了。</p>
+<p><strong>思考：</strong><br>9月下半月以来，资金要么在华为+各种题材里面快速轮动，要么极致抱团（一字板等），感觉非常难操作，认知太低。空仓-冷静-思考。</p>
 ]]></content>
       <categories>
         <category>Shares</category>
@@ -247,17 +261,5 @@
       <categories>
         <category>Others</category>
       </categories>
-  </entry>
-  <entry>
-    <title>1010记-10月新的开始</title>
-    <url>/2023/10/10/20231010/</url>
-    <content><![CDATA[<p><strong>这个月的目标是降低操作频率，提高出手胜率。</strong></p>
-]]></content>
-      <categories>
-        <category>Shares</category>
-      </categories>
-      <tags>
-        <tag>Diary</tag>
-      </tags>
   </entry>
 </search>
