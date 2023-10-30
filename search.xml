@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>新的浅显的开始</title>
+    <url>/2023/08/02/0802/</url>
+    <content><![CDATA[<h2 id="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"><a href="#第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。" class="headerlink" title="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"></a><font size="3">第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。</font><br><!--color=#36454F --></h2><p><img src="/images/0802.png">  </p>
+<center>@coder12</center>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>平常</title>
     <url>/2023/08/22/0822/</url>
     <content><![CDATA[<!-- hexo clean && hexo g -d -->
@@ -15,13 +25,16 @@
       </tags>
   </entry>
   <entry>
-    <title>新的浅显的开始</title>
-    <url>/2023/08/02/0802/</url>
-    <content><![CDATA[<h2 id="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"><a href="#第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。" class="headerlink" title="第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。"></a><font size="3">第一次比较认真的开始写博客，虽然过程磕磕绊绊，希望可以坚持下去吧，从零学习记录自己的生活。</font><br><!--color=#36454F --></h2><p><img src="/images/0802.png">  </p>
-<center>@coder12</center>
-]]></content>
+    <title>自我</title>
+    <url>/2023/08/25/0825/</url>
+    <content><![CDATA[<p><img src="/images/alone.png"></p>
+<center>内心丰盈者</center>
+<center>独行亦如众</center>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
       <tags>
-        <tag>杂谈</tag>
+        <tag>Open sesame</tag>
       </tags>
   </entry>
   <entry>
@@ -60,19 +73,6 @@
       </categories>
       <tags>
         <tag>Diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自我</title>
-    <url>/2023/08/25/0825/</url>
-    <content><![CDATA[<p><img src="/images/alone.png"></p>
-<center>内心丰盈者</center>
-<center>独行亦如众</center>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>Open sesame</tag>
       </tags>
   </entry>
   <entry>
@@ -198,18 +198,6 @@
       </tags>
   </entry>
   <entry>
-    <title>置顶</title>
-    <url>/2023/09/14/20230914/</url>
-    <content><![CDATA[<p><strong>写点东西吧，后退一步就是深渊，而你却浑浑噩噩。</strong><br><strong>没有危机感</strong><br><strong>没有自控力</strong><br><strong>太在意别人看法</strong><br><strong>找寻有意义的苦难</strong></p>
-]]></content>
-      <categories>
-        <category>Shares</category>
-      </categories>
-      <tags>
-        <tag>Diary</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>0925记-每天反思</title>
     <url>/2023/09/25/20230925/</url>
     <content><![CDATA[<p><strong>总结：</strong><br>$\color{red}{连续10天亏损，}$回撤26%后，今天勉强1个点收红。</p>
@@ -219,6 +207,18 @@
 <p><strong>教训：</strong><br><strong>对于明牌所有人知道的利好，除开绝对核心，其他套利、杂毛。在开盘高开后，观察五分钟等快速下杀回调后再考虑进场。</strong></p>
 <p><strong>事后分析：</strong><br>开盘大部分人的预期在华为+工业化板块上，且周末爆出的发布会内容没有手机+芯片。①那么对于华为有兑现预期的可能下，跷跷板的还是减肥药板块。②对于华为发布会内容，光刻机板块则有了预期差。</p>
 <p><strong>明日计划：</strong><br>暂无，如果持仓连续下跌，准备清仓过节，节后希望你一周能等到属于你的一次机会，也够了。</p>
+]]></content>
+      <categories>
+        <category>Shares</category>
+      </categories>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>置顶</title>
+    <url>/2023/09/14/20230914/</url>
+    <content><![CDATA[<p><strong>写点东西吧，后退一步就是深渊，而你却浑浑噩噩。</strong><br><strong>没有危机感</strong><br><strong>没有自控力</strong><br><strong>太在意别人看法</strong><br><strong>找寻有意义的苦难</strong></p>
 ]]></content>
       <categories>
         <category>Shares</category>
@@ -246,8 +246,10 @@
     <title>20231030记-稳中求进</title>
     <url>/2023/10/30/20231030/</url>
     <content><![CDATA[<p><strong>大盘：</strong><br>全A指数已经连续上涨5天，明天对于大盘看空，如果大盘回调，哪些板块是跷跷板效应，哪些板块能够看跌，哪些板块会跟随？</p>
-<p><strong>板块：</strong><br>减肥药：普利制药<br>华为鸿蒙：软通动力：汉仪软件<br>华为算力：弘信电子、朗科科技<br>消费电子：光弘科技、维信诺<br>华为汽车：圣龙股份（观察）<br>半导体：蓝箭电子、长川科技</p>
-<p><strong>市场偏好：</strong><br>创业板（300）趋势还是主板10CM打板？</p>
+<p>明天观察指数是否低开，以及真视通、捷荣、顺发恒业是否跌停，青龙管业、龙州股份断板，若继续跌停，连扳情绪退潮，谨慎接力打板，周三预计打板情绪修复，开始观察留仓位接力。<br>若指数低开，普利制药震荡拉升后快速出掉，5个点左右，启明信息预期继续一字，<br>若盘中受情绪分歧开板，可进，若一字，考虑金溢科技补涨，宁愿尾盘买，也不要追高！<br>若立利通电子一字涨停，首都在线高开，算力高潮。考虑低吸弘信电子，别追高。<br>没有合适机会空仓。</p>
+<p><strong>总结</strong>：指数低开，高标断板，只考虑核心票接力或者高辨识度跌停反包（做主板）。</p>
+<p><strong>全国金融工作会议</strong>：周五（11.10—11.12需要确定）埋伏地产、化债（云南城投、美丽生态）</p>
+<p><strong>板块：</strong><br>减肥药：普利制药（趋势，明天等游资拉高出掉，不要犹豫提前挂卖单）<br>华为鸿蒙：软通动力、润和软件、汉仪软件（埋伏周六鸿蒙大会，周四进软通动力）<br>华为算力：弘信电子（水下低吸）、朗科科技<br>消费电子：光弘科技、维信诺<br>华为汽车：圣龙股份<br>半导体：蓝箭电子、长川科技</p>
 <p><strong>大盘-板块-个股</strong><br>盘中操作，勿频繁操作，勿频繁换股。</p>
 ]]></content>
       <categories>
